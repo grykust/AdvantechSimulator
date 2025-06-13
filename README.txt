@@ -1,3 +1,3 @@
-Advantech WISE-4000 REST API Simulator
-Run with: ./AdvantechSimulator
-Use Railway with Dockerfile
+Advantech WISE-4000 REST API Simulator - Railway ready
+Port: 8080
+Start with: ./AdvantechSimulator
